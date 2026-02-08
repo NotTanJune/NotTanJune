@@ -35,5 +35,5 @@ I’m [Tanmay](www.tanmaynargas.engineer), a Master's student in Artificial Inte
 
 # How to reach me
 
-- LinkedIn: `https://www.linkedin.com/in/tanmay-nargas-63b723147/`
-- Submit a form on my website! : `https://tanmaynargas.engineer/contact`
+- [LinkedIn](https://www.linkedin.com/in/tanmay-nargas-63b723147)
+- Submit a [form](https://tanmaynargas.engineer/contact)
