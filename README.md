@@ -1,13 +1,11 @@
 ## Hi there 👋
 
-I’m [Tanmay](www.tanmaynargas.engineer), a Master's student in Artificial Intelligence at NTU, based in Singapore. I build things that solve real problems, or at least teach me something useful..
-
----
+I’m [Tanmay](www.tanmaynargas.engineer), a Master's student in Artificial Intelligence at NTU, based in Singapore. I build things that solve real problems.
 
 # About me
 
+- Current focus: Master of Science in Artificial Intelligence — coursework & hands-on projects in ML, deep learning, and generative AI. 
 - Background: Bachelor's in Mechatronics; ~2 years of industry experience.  
-- Current focus: Master of Science in Artificial Intelligence — coursework & hands-on projects in ML, deep learning, and generative AI.  
 - Tech strengths: Python, AWS, machine learning fundamentals, and practical experience with hardware + embedded workflows from mechatronics.  
 - Work style: Hack-first — prototype fast, iterate, and ship the useful bits.
 
