@@ -31,13 +31,6 @@ I’m [Tanmay](www.tanmaynargas.engineer), a Master's student in Artificial Inte
 
 ---
 
-# Currently
-
-- Pursuing my Master’s in AI and building projects in GenAI / ML.  
-- Preparing for internships / early-career roles in ML / DevOps / cloud-focused engineering.
-
----
-
 # Open to
 
 - Internships, collaborative projects, mentorship conversations, and coffee-fuelled debugging sessions.  
@@ -45,7 +38,7 @@ I’m [Tanmay](www.tanmaynargas.engineer), a Master's student in Artificial Inte
 
 ---
 
-# Fun facts & personal things (placeholders)
+# Fun facts:
 
 - I enjoy building physical projects (robotics / mechatronics) and bringing ML into the loop.  
 - I own a Nintendo Switch but end up playing on PC/Steam more of the time.
