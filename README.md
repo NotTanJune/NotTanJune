@@ -9,8 +9,6 @@ I’m [Tanmay](www.tanmaynargas.engineer), a Master's student in Artificial Inte
 - Tech strengths: Python, AWS, machine learning fundamentals, and practical experience with hardware + embedded workflows from mechatronics.  
 - Work style: Hack-first — prototype fast, iterate, and ship the useful bits.
 
----
-
 # Some stuff I've built
 
 - **Final Round** — An iOS/macOS app to help you be interview ready.  
@@ -19,8 +17,6 @@ I’m [Tanmay](www.tanmaynargas.engineer), a Master's student in Artificial Inte
   `🔗` [https://github.com/NotTanJune/ProfileQuest]
 - **SentiStock** — Sentiment analysis for the stock market.  
   `🔗` [https://github.com/Adigo10/stock_market_sentiment_analyzer]
-
----
 
 # Fun facts
 
