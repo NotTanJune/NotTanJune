@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m [Tanmay](www.tanmaynargas.engineer), a Master's student in Artificial Intelligence at NTU, based in Singapore. I tinker with robotics, machine vision, and anything that lets me teach a machine to see, think, or move. I build things that solve real problems — or at least teach me something useful while failing spectacularly the first dozen times.
+I’m [Tanmay](www.tanmaynargas.engineer), a Master's student in Artificial Intelligence at NTU, based in Singapore. I tinker with robotics, machine vision, and anything that lets me teach a machine to see, think, or move. I build things that solve real problems - or at least teach me something useful while failing spectacularly the first dozen times.
 
 ---
 
@@ -11,14 +11,6 @@ I’m [Tanmay](www.tanmaynargas.engineer), a Master's student in Artificial Inte
 - Tech strengths: Python, AWS, machine learning fundamentals, and practical experience with hardware + embedded workflows from mechatronics.  
 - Work style: Hack-first — prototype fast, iterate, and ship the useful bits.
 
-
-# What I build / care about
-
-- Responsive web apps/mobile apps that usually solve a problem I've encountered in the past.
-- Prototypes and projects that combine hardware and ML (robotics + vision).
-- Tools and automation to make development less boring and more repeatable.
-
----
 
 # Some stuff I've built
 
@@ -38,7 +30,7 @@ I’m [Tanmay](www.tanmaynargas.engineer), a Master's student in Artificial Inte
 
 ---
 
-# Fun facts:
+# Fun facts
 
 - I enjoy building physical projects (robotics / mechatronics) and bringing ML into the loop.  
 - I own a Nintendo Switch but end up playing on PC/Steam more of the time.
