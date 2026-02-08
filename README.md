@@ -29,7 +29,6 @@ I’m [Tanmay](www.tanmaynargas.engineer), a Master's student in Artificial Inte
 - I love cycling, swimming, and playing basketball.
 - I've been playing the guitar for more than a decade and find great solace in doing so, in my free time.
 
----
 
 # How to reach me
 
