@@ -15,11 +15,11 @@ I’m [Tanmay](www.tanmaynargas.engineer), a Master's student in Artificial Inte
 
 # Some stuff I've built
 
-- **[Final Round]** — An iOS/macOS app to help you be interview ready.  
+- **Final Round** — An iOS/macOS app to help you be interview ready.  
   `🔗` [https://nottanjune.github.io/FinalRound/]  
-- **[Profile Quest]** — Gamified career development.  
+- **Profile Quest** — Gamified career development.  
   `🔗` [https://github.com/NotTanJune/ProfileQuest]
-- **[SentiStock]** — Sentiment analysis for the stock market.  
+- **SentiStock** — Sentiment analysis for the stock market.  
   `🔗` [https://github.com/Adigo10/stock_market_sentiment_analyzer]
 
 ---
