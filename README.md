@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m [Tanmay](www.tanmaynargas.engineer), a Master's student in Artificial Intelligence at NTU, based in Singapore. I tinker with robotics, machine vision, and anything that lets me teach a machine to see, think, or move. I build things that solve real problems - or at least teach me something useful while failing spectacularly the first dozen times.
+I’m [Tanmay](www.tanmaynargas.engineer), a Master's student in Artificial Intelligence at NTU, based in Singapore. I build things that solve real problems, or at least teach me something useful..
 
 ---
 
