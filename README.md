@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I’m [Tanmay](www.tanmaynargas.engineer), a Master's student in Artificial Intelligence at NTU, based in Singapore. I build things that solve real problems.
+I’m [Tanmay](https://tanmaynargas.engineer), a Master's student in Artificial Intelligence at NTU, based in Singapore. I build things that solve real problems.
 
 ## About me
 
