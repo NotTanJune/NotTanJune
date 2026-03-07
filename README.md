@@ -11,17 +11,19 @@ I’m [Tanmay](https://tanmaynargas.engineer), a Master's student in Artificial 
 
 ## Some stuff I've built
 
-- **Final Round** — An iOS/macOS app to help you be interview ready.  
+- **Final Round** - An iOS/macOS app to help you be interview ready.  
   `🔗` [https://nottanjune.github.io/FinalRound/]  
-- **Profile Quest** — Gamified career development.  
+- **Profile Quest** - Gamified career development.  
   `🔗` [https://github.com/NotTanJune/ProfileQuest]
-- **SentiStock** — Sentiment analysis for the stock market.  
+- **DevDéx** - CLI tool for deployment checklist  
+  `🔗` [https://github.com/NotTanJune/DevDex]
+- **SentiStock** - Sentiment analysis for the stock market.  
   `🔗` [https://github.com/Adigo10/stock_market_sentiment_analyzer]
 
 ## Fun facts
 
 - I enjoy building physical projects (robotics / mechatronics) and bringing ML into the loop.  
-- I own a Nintendo Switch but end up playing on PC/Steam more of the time.
+- I am an avid gamer, enjoy story games and multiplayer ones, alike.
 - I love cycling, swimming, and playing basketball.
 - I've been playing the guitar for more than a decade and find great solace in doing so, in my free time.
 
