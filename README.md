@@ -1,4 +1,5 @@
-# Hi there 👋
+## Hi there! <img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/4b96b2f2-f41f-4477-9f51-39832adfb8d4" />
+
 
 I’m [Tanmay](https://tanmaynargas.engineer), a Master's student in Artificial Intelligence at NTU, based in Singapore. I build things that solve real problems.
 
