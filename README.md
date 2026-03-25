@@ -12,8 +12,8 @@ I’m [Tanmay](https://tanmaynargas.engineer), a Master's student in Artificial 
 
 ## Some stuff I've built
 
-- **Final Round** - An iOS/macOS app to help you be interview ready.  
-  `🔗` [https://nottanjune.github.io/FinalRound/]  
+- **Every Round** - An iOS/macOS app to help you be interview ready.  
+  `🔗` [https://everyround.live]  
 - **Profile Quest** - Gamified career development.  
   `🔗` [https://github.com/NotTanJune/ProfileQuest]
 - **DevDéx** - CLI tool for deployment checklist  
