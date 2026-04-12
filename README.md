@@ -13,13 +13,13 @@ I’m [Tanmay](https://tanmaynargas.engineer), a Master's student in Artificial 
 ## Some stuff I've built
 
 - **Every Round** - An iOS/macOS app to help you be interview ready.  
-  `🔗` [https://everyround.live]  
+  `🔗` [https://everyround.live]
+- **Anglerfish** - Three.js dark pattern scanner  
+  `🔗` [https://github.com/NotTanJune/anglerfish]
 - **Profile Quest** - Gamified career development.  
   `🔗` [https://github.com/NotTanJune/ProfileQuest]
 - **DevDéx** - CLI tool for deployment checklist  
   `🔗` [https://github.com/NotTanJune/DevDex]
-- **SentiStock** - Sentiment analysis for the stock market.  
-  `🔗` [https://github.com/Adigo10/stock_market_sentiment_analyzer]
 
 ## Fun facts
 
