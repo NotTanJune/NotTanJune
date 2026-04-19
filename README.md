@@ -5,7 +5,7 @@ I’m [Tanmay](https://tanmaynargas.engineer), an AI Agents intern at Bosch and 
 
 ## About me
 
-- Current focus: Master of Science in Artificial Intelligence - coursework & hands-on projects in ML, deep learning, and generative AI. 
+- Current focus: Agentic AI Internship and Master of Science in Artificial Intelligence - coursework & hands-on projects in ML, deep learning, and generative AI. 
 - Background: Bachelor's in Mechatronics; ~2 years of industry experience.  
 - Tech strengths: Python, AWS, machine learning fundamentals, and practical experience with hardware + embedded workflows from mechatronics.  
 - Work style: Hack-first - prototype fast, iterate, and ship the useful bits.
