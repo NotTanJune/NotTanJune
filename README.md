@@ -14,8 +14,8 @@ I’m [Tanmay](https://tanmaynargas.engineer), an AI Agents intern at Bosch and 
 
 - **Every Round** - An iOS/macOS app to help you be interview ready.  
   `🔗` [https://everyround.live]
-- **Anglerfish** - Three.js dark pattern scanner  
-  `🔗` [https://github.com/NotTanJune/anglerfish]
+- **Locator (lctr)** - Lightning fast rust based file indexing and search tool.  
+  `🔗` [https://github.com/NotTanJune/locator]
 - **Profile Quest** - Gamified career development.  
   `🔗` [https://github.com/NotTanJune/ProfileQuest]
 - **DevDéx** - CLI tool for deployment checklist  
