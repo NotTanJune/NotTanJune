@@ -1,7 +1,7 @@
 ## Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
 
-I’m [Tanmay](https://tanmaynargas.engineer), an AI Agents intern at Bosch and a student pursuing my Master's in Artificial Intelligence at NTU, based in Singapore. I build things that solve real problems.
+I’m [Tanmay](https://tanmaynargas.com), an AI Agents intern at Bosch and a student pursuing my Master's in Artificial Intelligence at NTU, based in Singapore. I build things that solve real problems.
 
 ## About me
 
@@ -32,4 +32,4 @@ I’m [Tanmay](https://tanmaynargas.engineer), an AI Agents intern at Bosch and 
 ## How to reach me
 
 - [LinkedIn](https://www.linkedin.com/in/tanmay-nargas-63b723147)
-- Submit a [form](https://tanmaynargas.engineer/contact) on my website!
+- Submit a [form](https://tanmaynargas.com/contact) on my website!
