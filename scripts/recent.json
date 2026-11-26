@@ -1,0 +1,13 @@
+{
+  "user": "NotTanJune",
+  "count": 5,
+  "max_description": 70,
+  "include_forks": ["murmur"],
+  "exclude": ["NotTanJune"],
+  "descriptions": {
+    "murmur": "Push-to-talk dictation for macOS",
+    "Portfolio": "tanmaynargas.com",
+    "branch-to-the-future": "Terminal change-impact simulator",
+    "juice": "Menu bar battery levels for Logitech and Bose devices"
+  }
+}
