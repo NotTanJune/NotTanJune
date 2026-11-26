@@ -11,9 +11,10 @@ I'm a Master of Science in Artificial Intelligence student at NTU Singapore and 
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="38%" valign="top">
       <a href="https://github.com/NotTanJune/locator"><img src="assets/projects/locator.jpg" alt="locator terminal UI" width="100%"></a>
-      <br>
+    </td>
+    <td width="62%" valign="top">
       <a href="https://github.com/NotTanJune/locator"><b>locator (lctr)</b></a>
       <br>
       Local metadata search for any folder or external drive. A Rust CLI and TUI that answers before Finder has finished loading.
@@ -21,9 +22,12 @@ I'm a Master of Science in Artificial Intelligence student at NTU Singapore and 
       <a href="https://github.com/NotTanJune/locator/releases/latest"><img src="https://img.shields.io/github/v/release/NotTanJune/locator?style=flat-square&label=release&color=0f766e" alt="Latest release"></a>
       <a href="https://github.com/NotTanJune/locator/stargazers"><img src="https://img.shields.io/github/stars/NotTanJune/locator?style=flat-square&color=0f766e" alt="Stars"></a>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td width="38%" valign="top">
       <a href="https://github.com/NotTanJune/murmur"><img src="assets/projects/murmur.jpg" alt="Murmur dictation on Mac and iPhone" width="100%"></a>
-      <br>
+    </td>
+    <td width="62%" valign="top">
       <a href="https://github.com/NotTanJune/murmur"><b>Murmur</b></a>
       <br>
       Hold a key, talk, let go. Push-to-talk dictation for macOS plus an iPhone keyboard. Speech and cleanup run on-device.
@@ -32,18 +36,22 @@ I'm a Master of Science in Artificial Intelligence student at NTU Singapore and 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="38%" valign="top">
       <a href="https://tiny-fish-two.vercel.app"><img src="assets/projects/anglerfish.jpg" alt="Anglerfish deep-sea dark pattern scanner" width="100%"></a>
-      <br>
+    </td>
+    <td width="62%" valign="top">
       <a href="https://github.com/NotTanJune/anglerfish"><b>Anglerfish</b></a>
       <br>
       A web agent scans any site for dark patterns, GPT-4o classifies them, and the results play out as a 3D deep-sea descent.
       <br>
       <sub>TypeScript · Three.js · web agents · <a href="https://tiny-fish-two.vercel.app">live demo</a></sub>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td width="38%" valign="top">
       <a href="https://latentsdf-explorer.vercel.app"><img src="assets/projects/latentsdf.jpg" alt="LatentSDF Explorer shape viewer" width="100%"></a>
-      <br>
+    </td>
+    <td width="62%" valign="top">
       <a href="https://github.com/NotTanJune/AI6131-3D-Deep-Learning"><b>LatentSDF Explorer</b></a>
       <br>
       DeepSDF latent spaces trained on ShapeNet-style data, with reconstruction metrics and a WebGL shape explorer.
@@ -86,8 +94,8 @@ I'm a Master of Science in Artificial Intelligence student at NTU Singapore and 
 ### Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-green.svg">
-  <img src="profile-3d-contrib/profile-green-animate.svg" alt="3D contribution calendar" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="pacman/pacman-contribution-graph-dark.svg">
+  <img src="pacman/pacman-contribution-graph.svg" alt="Pac-Man eating my contribution graph" width="100%">
 </picture>
 
 ### Elsewhere
