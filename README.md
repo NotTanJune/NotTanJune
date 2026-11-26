@@ -3,7 +3,7 @@
   <img src="assets/banner-light.svg" alt="Tanmay Nargas. MSc AI at NTU Singapore. Agents, native apps and ML. Open to work." width="100%">
 </picture>
 
-I'm a Master of Science in Artificial Intelligence student at NTU Singapore and an AI Agents intern at Bosch. I build agent tooling, fast native apps and ML systems, mostly in Rust, Swift and Python. Before NTU I studied mechatronics and spent about two years in industry.
+I'm a Master of Science in Artificial Intelligence student at NTU Singapore, most recently an AI Agents intern at Bosch. I build agent tooling, fast native apps and ML systems, mostly in Rust, Swift and Python. Before NTU I studied mechatronics and spent about two years in industry.
 
 **Open to opportunities** in AI engineering and agentic systems. Reach me through [tanmaynargas.com](https://tanmaynargas.com) or [LinkedIn](https://www.linkedin.com/in/tanmay-nargas-63b723147).
 
