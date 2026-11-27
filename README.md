@@ -66,8 +66,8 @@ I'm a Master of Science in Artificial Intelligence student at NTU Singapore, mos
 <!-- RECENT:START -->
 | Repo | What | Pushed |
 | --- | --- | --- |
-| [crack-detection](https://github.com/NotTanJune/crack-detection) | Machine vision project | 26 Nov |
 | [murmur](https://github.com/NotTanJune/murmur) | Push-to-talk dictation for macOS | 26 Nov |
+| [crack-detection](https://github.com/NotTanJune/crack-detection) | Machine vision project | 26 Nov |
 | [Portfolio](https://github.com/NotTanJune/Portfolio) | tanmaynargas.com | 26 Nov |
 | [locator](https://github.com/NotTanJune/locator) | Released v0.5.2 | 24 Nov |
 | [branch-to-the-future](https://github.com/NotTanJune/branch-to-the-future) | Terminal change-impact simulator | 24 Nov |
