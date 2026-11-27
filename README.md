@@ -75,16 +75,6 @@ I'm a Master of Science in Artificial Intelligence student at NTU Singapore, mos
 
 <sub>Updated every day by a GitHub Action.</sub>
 
-### Hackathons
-
-| Event | Build |
-| --- | --- |
-| AI Engineer Hackathon 2026 | [Branch to the Future](https://github.com/NotTanJune/branch-to-the-future): blast-radius analysis for a planned code change, in a Ratatui TUI |
-| Mistral Worldwide Hackathon 2026 | [DevDéx](https://github.com/NotTanJune/DevDex): scans a codebase and writes the launch kit (privacy policy, store copy, checklist) |
-| Build for Impact 2026 | [ReWear SG](https://github.com/NotTanJune/cycleit): clothing reuse prototype |
-| PSA Code Sprint 2025 | StrAIt: port network insights with Groq inference and ML forecasting |
-| Creatica 2022 | [Harbour](https://github.com/NotTanJune/Harbour) |
-
 ### Stack
 
 <p align="center">
